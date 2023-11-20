@@ -218,7 +218,7 @@ sudo apt-get -o Acquire::ForceIPv6=true dist-upgrade
 目前先到此为止！日后有新的会更新！
 {% endhint %}
 
-#### Bird2 install debian11 bird2.0.12
+### Bird2 install debian11 bird2.0.12
 
 ```
 echo "deb http://deb.debian.org/debian bullseye-backports main" >> /etc/apt/sources.list
@@ -231,4 +231,17 @@ apt update
 ```
 apt install  bird2/bullseye-backports
 ```
+
+移除雲計算 的自動網路配置腳本
+
+```
+apt-get remove cloud-init
+
+```
+
+```
+apt-get purge cloud-init
+```
+
+但是請手動將`50-cloud-init` 網卡文件寫入到`interface`以免造成網卡無法啟動。
 
