@@ -8,6 +8,7 @@
 
 ## Blog
 
+* [Debian 12 apt](blog/debian-12-apt.md)
 * [在 Sonoma OS 玩 原神 以及 完整的移除卸載原神](blog/zai-sonoma-os-wan-yuan-shen-yi-ji-wan-zheng-de-yi-chu-xie-zai-yuan-shen.md)
 * [一個人看電影](blog/yi-ge-ren-kan-dian-ying.md)
 * [裝eve-ng社區版踩個小坑](blog/zhuang-eveng-she-qu-ban-cai-ge-xiao-keng.md)
