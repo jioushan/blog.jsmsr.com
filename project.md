@@ -20,7 +20,7 @@ description: about my running project
 
 ○[Blog](https://blog.jsmsr.com)
 
-○CloudFlare Teams [点此访问](http://jsmsr.cloudflareaccess.com/)
+○CloudFlare Teams [点此访问](https://status.jsmsr.com/status/jsmsr)
 
 ○Jioushan系网络监测 [点次访问](https://stats.uptimerobot.com/v7zAXuEBw1)
 
