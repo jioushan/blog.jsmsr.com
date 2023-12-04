@@ -34,14 +34,14 @@ description: 关于我
 
 
 
-目前状态：尋求一份job...
+目前状态：尋求一份job... or 順利畢業 or 會更多語言 or 計算機技能大提高&#x20;
 
 \
 
 
 Find Me:
 
-○[Twitter](https://twitter.com/jioushan182)   ○[Github](https://github.com/jioushan)  ○[Email](mailto:admin@jsmsr.com) ○[Telegram](https://t.me/jioushan)
+&#x20; ○[Github](https://github.com/jioushan)  ○[Email](mailto:admin@jsmsr.com)&#x20;
 
 
 

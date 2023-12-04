@@ -4,31 +4,35 @@ description: about my running project
 
 # Project
 
-○云盘: 私有化存储分享站 （又拍云缓存）[点此访问](https://cdn.jioushan.top)  [点此访问](https://pan.jsmsr.com)
+○私有分享站 [点此访问](https://cdn.jioushan.top)  &#x20;
 
-○图床:[点此访问](https://photo.jsmsr.com)
+○~~图床:~~[~~点此访问~~](https://photo.jsmsr.com)  我们已经关闭了我们的图床服务&#x20;
 
-○[Jsmsr Network Project](https://www.jsmsr.com)
+Now If you Open the site you Look at Amazing Flag！  LGBTQ Pride
 
-○[Sora.ltd](https://www.sora.ltd) (暫緩運營
+○[JSMSR Network Project](https://www.jsmsr.com)
+
+○[Sora.ltd](https://www.sora.ltd)  Nothing Anymore，May Be you want listing to music; )
 
 ○API端口调用 ([随机封面图](https://image.jsmsr.com)(仅限Anime)[ 随机封面图](https://api.jsmsr.com/image)（global）
 
-○[导航站](https://msr.li)
+○
 
-○[通告发布](https://about.jsmsr.com)
+○ [TEST Web Site](https://about.jsmsr.com/)
 
-○[Blog](https://blog.jsmsr.com)
+○ [Blog](https://blog.jsmsr.com) or[ Jioushan\_Blog](https://www3.jioushan.top)
 
-○CloudFlare Teams [点此访问](https://status.jsmsr.com/status/jsmsr)
+○ JSMSR Network Status [点此访问](https://status.jsmsr.com/status/jsmsr)
 
-○Jioushan系网络监测 [点次访问](https://stats.uptimerobot.com/v7zAXuEBw1)
+○关于[ JSMSR Project](https://peer.jsmsr.com/about/)
 
-○ AS134478 peer [URL](https://www.jsmsr.com/peer)
+○ Peer [URL](https://www.jsmsr.com/peer)
 
 
 
-AS[134478](https://www.jsmsr.com) [sora.ltd](https://www.sora.ltd)
+
+
+
 
 
 
