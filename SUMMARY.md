@@ -9,6 +9,7 @@
 ## Blog
 
 * [Debian 12 apt](blog/debian-12-apt.md)
+* [Debian11 setting](blog/debian11-setting.md)
 * [在 Sonoma OS 玩 原神 以及 完整的移除卸載原神](blog/zai-sonoma-os-wan-yuan-shen-yi-ji-wan-zheng-de-yi-chu-xie-zai-yuan-shen.md)
 * [一個人看電影](blog/yi-ge-ren-kan-dian-ying.md)
 * [裝eve-ng社區版踩個小坑](blog/zhuang-eveng-she-qu-ban-cai-ge-xiao-keng.md)
@@ -20,7 +21,6 @@
 * [JSMSR Network](blog/jsmsr-network.md)
 * [硬碟掛載](blog/ying-die-gua-zai.md)
 * [🌏 Wireguard 淺入教程](blog/wireguard-qian-ru-jiao-cheng.md)
-* [Debian11 setting](blog/debian11-setting.md)
 * [BGP-4作为个人用户的看待](blog/bgp4-zuo-wei-ge-ren-yong-hu-de-kan-dai.md)
 * [在树莓派4B上使用Airplay](blog/zai-shu-mei-pai-4b-shang-shi-yong-airplay.md)
 * [🌏 bird版本區別之 protocol](blog/bird-ban-ben-qu-bie-zhi-protocol.md)

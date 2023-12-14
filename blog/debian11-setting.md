@@ -245,3 +245,10 @@ apt-get purge cloud-init
 
 但是請手動將`50-cloud-init` 網卡文件寫入到`interface`以免造成網卡無法啟動。
 
+
+
+### 修改时间 地区
+
+```
+dpkg-reconfigure tzdata
+```
