@@ -8,6 +8,7 @@
 
 ## Blog
 
+* [2024 year](blog/2024-year.md)
 * [Debian 12 apt](blog/debian-12-apt.md)
 * [Debian11 setting](blog/debian11-setting.md)
 * [在 Sonoma OS 玩 原神 以及 完整的移除卸載原神](blog/zai-sonoma-os-wan-yuan-shen-yi-ji-wan-zheng-de-yi-chu-xie-zai-yuan-shen.md)
