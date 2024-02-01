@@ -18,10 +18,16 @@ wg依賴內核，若內核較低 無法使用wg，本篇不在此 過多解釋 �
 
 ### Start
 
-安装Wireguard
+安装Wireguard  Debian 11
 
 ```
 apt install wireguard-dkms wireguard-tools -y
+```
+
+Debian 12
+
+```
+apt install wireguard
 ```
 
 進入  `/etc/wireguard` 目錄
