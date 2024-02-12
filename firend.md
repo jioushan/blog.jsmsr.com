@@ -98,6 +98,6 @@ You will come as a lightning!
 
 ## 友链申请
 
-### 请访问:[此接链](https://www.jioushan.top/friend/) 于评论区 发表您的友链互换信息!格式请阅读后发表!
+### 请私信PM我:[此接链](https://blog.jsmsr.com/abuout-me) Open and Peer Exchange URL
 
 ###
