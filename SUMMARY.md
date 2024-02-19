@@ -8,6 +8,7 @@
 
 ## Blog
 
+* [2024年2月的小记](blog/2024-nian-2-yue-de-xiao-ji.md)
 * [2024 year](blog/2024-year.md)
 * [Debian 12 apt](blog/debian-12-apt.md)
 * [Debian11 setting](blog/debian11-setting.md)
