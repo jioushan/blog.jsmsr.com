@@ -8,6 +8,7 @@
 
 ## Blog
 
+* [值得纪念的一天](blog/zhi-de-ji-nian-de-yi-tian.md)
 * [2024年2月的小记](blog/2024-nian-2-yue-de-xiao-ji.md)
 * [2024 year](blog/2024-year.md)
 * [Debian 12 apt](blog/debian-12-apt.md)
@@ -30,14 +31,14 @@
 * [😆 ssh-key来访问SSH](blog/sshkey-lai-fang-wen-ssh.md)
 * [😆 临时修改网卡地址 网关 Mac地址](blog/lin-shi-xiu-gai-wang-ka-di-zhi-wang-guan-mac-di-zhi.md)
 * [😄 Ubuntu Install Bird2](blog/ubuntu-install-bird2.md)
-* [🗒 緩解服務器壓力，一種思路](blog/huan-jie-fu-wu-qi-ya-li-yi-zhong-si-lu.md)
+* [🗒️ 緩解服務器壓力，一種思路](blog/huan-jie-fu-wu-qi-ya-li-yi-zhong-si-lu.md)
 * [🌏 在公網宣告地址須知](blog/bgp-jiao-cheng.md)
-* [🗒 云游戏II](blog/yun-you-xi-ii.md)
+* [🗒️ 云游戏II](blog/yun-you-xi-ii.md)
 * [😖 自己的闲言碎语](blog/zi-ji-de-xian-yan-sui-yu.md)
-* [🧑💻 Sony xperia docomo XZ2C  回退系统](blog/sony-xperia-docomo-xz2c-hui-tui-xi-tong.md)
-* [🗒 Big Sure 入门指北](blog/big-sure-ru-men-zhi-bei.md)
+* [🧑‍💻 Sony xperia docomo XZ2C  回退系统](blog/sony-xperia-docomo-xz2c-hui-tui-xi-tong.md)
+* [🗒️ Big Sure 入门指北](blog/big-sure-ru-men-zhi-bei.md)
 * [泛談科學協議選擇](blog/fan-qiang-xie-yi-de-xuan-ze-xing.md)
-* [🧑💻 给Skura主题添加个性的LOGO](blog/gei-skura-zhu-ti-tian-jia-ge-xing-de-logo.md)
+* [🧑‍💻 给Skura主题添加个性的LOGO](blog/gei-skura-zhu-ti-tian-jia-ge-xing-de-logo.md)
 * [NVIDIA GeForce NOW 评测](blog/nvidia-geforce-now-ping-ce.md)
 * [Linux系统换清华镜像源](blog/linux-xi-tong-huan-zhong-ke-da-jing-xiang-yuan.md)
 * [国内三大运营商对于大厂的路由跟踪如何。](blog/guo-nei-san-da-yun-ying-shang-dui-yu-da-chang-de-lu-you-gen-zong-ru-he.md)
