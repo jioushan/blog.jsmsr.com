@@ -8,7 +8,7 @@
 
 ## Blog
 
-* [值得纪念的一天](blog/zhi-de-ji-nian-de-yi-tian.md)
+* [Note-3月份](blog/note3-yue-fen.md)
 * [2024年2月的小记](blog/2024-nian-2-yue-de-xiao-ji.md)
 * [2024 year](blog/2024-year.md)
 * [Debian 12 apt](blog/debian-12-apt.md)
