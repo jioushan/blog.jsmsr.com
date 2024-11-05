@@ -8,6 +8,7 @@
 
 ## Blog
 
+* [2024y-11m](blog/2024y-11m.md)
 * [5月份](blog/5-yue-fen.md)
 * [4月份](blog/4-yue-fen.md)
 * [Note-3月份](blog/zhi-de-ji-nian-de-yi-tian.md)
