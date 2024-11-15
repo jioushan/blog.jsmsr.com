@@ -90,6 +90,10 @@ You will come as a lightning!
 
 龙猫不在家
 
+## [Apple Miku 苹果酱](https://kirimasharo.com/)
+
+摸鱼，看动画，捡洋垃圾，玩塑料小人
+
 ## 阵亡伙伴
 
 ### YekongTat
