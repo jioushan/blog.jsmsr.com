@@ -10,6 +10,10 @@ description: 友链
 
 
 
+## [小林家的白渃](https://blog.bairuo.net/)
+
+一个写了很多没用东西的BLOG
+
 ### [Air’s Home](https://zhiccc.net)
 
 一个奇奇怪怪，啥都有的网站
