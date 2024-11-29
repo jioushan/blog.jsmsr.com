@@ -10,6 +10,10 @@ description: 友链
 
 
 
+### [Air’s Home](https://zhiccc.net)
+
+一个奇奇怪怪，啥都有的网站
+
 ## [帽之岛 | Hat's Land](https://www.hats-land.com/)
 
 可爱的Neko Hat（帽酱），赛高 (ノ￣▽￣)
