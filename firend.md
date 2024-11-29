@@ -10,6 +10,10 @@ description: 友链
 
 
 
+## [帽之岛 | Hat's Land](https://www.hats-land.com/)
+
+可爱的Neko Hat（帽酱），赛高 (ノ￣▽￣)
+
 ## [Lily Ellenvia](https://blog.lilynet.work/)
 
 喜歡睡覺
