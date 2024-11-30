@@ -10,6 +10,10 @@ description: 友链
 
 
 
+## [Razuritta’s Notebook](https://blog.razuritta.me/)
+
+拉兹先生的在线笔记
+
 ## [小林家的白渃](https://blog.bairuo.net/)
 
 一个写了很多没用东西的BLOG
