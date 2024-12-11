@@ -8,6 +8,7 @@
 
 ## Blog
 
+* [Deploy Tiny tiny RSS on server](blog/deploy-tiny-tiny-rss-on-server.md)
 * [2024y-11m](blog/2024y-11m.md)
 * [5月份](blog/5-yue-fen.md)
 * [4月份](blog/4-yue-fen.md)
