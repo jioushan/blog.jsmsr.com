@@ -8,6 +8,7 @@
 
 ## Blog
 
+* [On The Debian12 amd64 install Zabbix + Grafana](blog/on-the-debian12-amd64-install-zabbix-+-grafana.md)
 * [Deploy Tiny tiny RSS on server](blog/deploy-tiny-tiny-rss-on-server.md)
 * [2024y-11m](blog/2024y-11m.md)
 * [5月份](blog/5-yue-fen.md)
