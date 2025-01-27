@@ -98,7 +98,9 @@ JSMSR 在未来，我们会启用我们新的ASN，过去的ASN将逐渐被弃�
 也是还未发生的事情，大抵就是6月份龙舟节会放假，但是要做什么，去哪儿还未有打算。
 
 \
-今天先到此为止，日常 博文，Song安利，其实要安利我可能不止一首歌曲啦。\
+今天先到此为止，日常 博文，Song安利，其实要安利我可能不止一首歌曲啦。
+
+\
 \
 [https://open.spotify.com/track/3ypMsqUwfNFMiooMLVHfkp?si=99792cc64d0249dd](https://open.spotify.com/track/3ypMsqUwfNFMiooMLVHfkp?si=99792cc64d0249dd)\
 \
@@ -106,12 +108,16 @@ YMCA，很有名的一首上个世纪的歌曲，但是严格来说 它是一首
 虽然也有日语版，在检索日语翻唱版的时候，发现那个歌手14年去世了。\
 韩语版 尽管twice的歌曲和舞蹈真的很棒，人美声甜。但是 翻唱舞蹈版本我欣赏不来，故因此我不安利。
 
+{% embed url="https://open.spotify.com/track/3ypMsqUwfNFMiooMLVHfkp?si=99792cc64d0249dd" %}
+
 \
 第二首，\
 最近我喜欢了 Conna gray\
 他的歌曲真的很棒，我很喜欢，哪怕是日美混血，但是同年龄段24age的歌手，我不想我23的时候，24的时候一事无成。说真的要不是这垃圾二监浪费了我宝贵的时间和才能。我真的很讨厌这里。我创作的灵感都被 压抑了。大哭呜呜呜呜呜呜呜～\
 \
-歌曲还是要分享的，在我不如意的时候，在我没天通勤的时候 陪伴者我半个多月了\
+歌曲还是要分享的，在我不如意的时候，在我没天通勤的时候 陪伴者我半个多月了
+
+\
 \
 [https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA?si=e0a11b44a04843a8](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA?si=e0a11b44a04843a8)\
 \
@@ -119,3 +125,5 @@ YMCA，很有名的一首上个世纪的歌曲，但是严格来说 它是一首
 \
 \
 今天先到这里吧，安安！night night，
+
+{% embed url="https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA?si=e0a11b44a04843a8" %}
