@@ -109,6 +109,8 @@ description: '#一个长草的Blog记起更新了。'
 [​​](https://open.spotify.com/track/24TQIQpKJWp4isMbulvifs?si=4cb37e1187924a02)[https://open.spotify.com/track/24TQIQpKJWp4isMbulvifs?si=4cb37e1187924a02](https://open.spotify.com/track/24TQIQpKJWp4isMbulvifs?si=4cb37e1187924a02)\
 
 
+{% embed url="https://open.spotify.com/track/24TQIQpKJWp4isMbulvifs?si=4cb37e1187924a02" %}
+
 希望有朝一日可以掌握网络安全,致敬那个清华 Blue-Lotus。&#x20;
 
 如果有CTF大佬带带我这只小菜鸡.
