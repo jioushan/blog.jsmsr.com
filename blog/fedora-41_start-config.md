@@ -201,8 +201,19 @@ nameserver 2606:4700:4700::1111
 
 结尾的音乐分享,
 
+{% embed url="https://open.spotify.com/intl-ja/track/7rC3P7tpWriaC4hYWKwGQd?si=a2f8e8dca6c54063" %}
+Hey,Lover-Wabie
+{% endembed %}
 
 
-{% embed url="https://music.apple.com/jp/album/hey-lover/1470149266?i=1470149271" %}
 
-\
+{% embed url="https://open.spotify.com/intl-ja/track/5dOaDkbqvfHnhRbDTL3I2W?si=fb1cc66df5b44938" %}
+Memory-Last Goodbye
+{% endembed %}
+
+
+
+{% embed url="https://open.spotify.com/intl-ja/track/3se9YurPfXqDzGsjURs3hZ?si=ec88e90d0a084d83" %}
+Bloody Mary Girl-She Her Hers
+{% endembed %}
+
