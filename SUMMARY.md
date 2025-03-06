@@ -9,6 +9,7 @@
 
 ## Blog
 
+* [ACME.SH签发Google SSL](blog/acme.sh-qian-fa-google-ssl.md)
 * [Fedora 41\_start config](blog/fedora-41_start-config.md)
 * [2025年Note](blog/2025-nian-note.md)
 * [On The Debian12 amd64 install Zabbix + Grafana](blog/on-the-debian12-amd64-install-zabbix-+-grafana.md)
