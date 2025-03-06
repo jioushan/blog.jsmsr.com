@@ -87,3 +87,9 @@ tail -n +$(grep -n "END CERTIFICATE" www.example.com.crt | head -1 | cut -d: -f1
 
 #### &#x20;Music
 
+Once in a Dream-In the City
+
+{% embed url="https://music.apple.com/jp/album/once-in-a-dream/1498097839?i=1498097841" %}
+
+初识这个music来自.近期看了My Pride（你可以在Youtube自行查找活得该anime,目前我不知道国内是否有译制此片，但是你可通过现在的AI插件进行字母翻译,便于您了解讲述的故事.2019年加拿大的制作者们制作了此片,目前发起者生成由于资金链中断等原因,第二季的制作迟迟没有发布.\
+但是讲了一个很好的故事,而此音乐变在此片中出现.
