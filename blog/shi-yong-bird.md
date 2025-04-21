@@ -56,10 +56,10 @@ Best wishes\
 \
 音楽おすすめ
 
-{% embed url="https://music.apple.com/jp/album/%E5%BE%A9%E6%B4%BB/1702485778?i=1702485859" %}
+{% embed url="https://open.spotify.com/track/4PTMUg1gE2MeO0vblhtbYE?si=ae7cc161d2614bf6" %}
 
-{% embed url="https://music.apple.com/jp/album/memory/1457016397?i=1457016402" %}
+{% embed url="https://open.spotify.com/track/5dOaDkbqvfHnhRbDTL3I2W?si=7b59e2128cfa42c4" %}
 
-{% embed url="https://music.apple.com/jp/album/%E9%87%87%E8%8C%B6/1804832068?i=1804832074" %}
+{% embed url="https://open.spotify.com/track/3NdEyT40eHJeapFLUDqK0q?si=e7bd62762c284f36" %}
 
-{% embed url="https://music.apple.com/jp/album/hey-lover/1470149266?i=1470149271" %}
+{% embed url="https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd?si=053462ea4c4d42f2" %}
