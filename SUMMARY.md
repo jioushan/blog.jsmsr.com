@@ -9,6 +9,7 @@
 
 ## Blog
 
+* [食用bird](blog/shi-yong-bird.md)
 * [我怎么了？](blog/wo-zen-me-le.md)
 * [ACME.SH签发Google SSL](blog/acme.sh-qian-fa-google-ssl.md)
 * [Fedora 41\_start config](blog/fedora-41_start-config.md)
