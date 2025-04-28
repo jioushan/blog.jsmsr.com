@@ -135,7 +135,7 @@ modprobe ip_gre
 echo "ip_gre" | tee /etc/modules-load.d/ip_gre.conf
 ```
 
-使用`nmcli`创建tunnel
+使用`nmcli`创建tunnel   !!自行替換gre1名稱為你的接口名稱
 
 ```
 nmcli connection add type ip-tunnel ifname gre1 mode gre con-name gre1 local 10.0.0.1 remote 10.0.0.2
@@ -145,21 +145,31 @@ nmcli connection add type ip-tunnel ifname gre1 mode gre con-name gre1 local 10.
 nmcli connection modify gre1 ipv6.method manual ipv6.addresses fe80::a::1/64
 ```
 
+```
+nmcli connection modify gre1 ip-tunnel.ttl 255
+```
+
 请自行替换`gre1`相关字段为您要创建的gre tunnel接口名称,以及local和remote地址.
 
 ```
 ip link set gre1 up
 ```
 
-由于nmcil不支持创建配置时tunnel的ttl
+如果遇到nmcil低版本/高版本命令嚴格，创建配置时tunnel的ttl 報錯
 
-我们需要手动执行
+我们可以手动执行
 
 ```
 ip tunnel change gre1 ttl 255
 ```
 
 请确保gre tunnel类似协议接口两侧的借口都要建立,才可以建立通信.
+
+nmcil 自動啟用接口
+
+```
+nmcli connection modify gre1 connection.autoconnect yes
+```
 
 ### 3.2 创建dummy接口.
 
