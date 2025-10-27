@@ -110,6 +110,10 @@ You will come as a lightning!
 
 摸鱼，看动画，捡洋垃圾，玩塑料小人
 
+## [杨杨得亿](https://blog.yydy.link/)
+
+关注网络安全，虚拟化，SSLVPN 等相关领域。
+
 ## 阵亡伙伴
 
 ### YekongTat
