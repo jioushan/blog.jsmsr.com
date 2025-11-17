@@ -44,11 +44,13 @@ Spanish(learning)
 
 :Pansexuality: [more detail](https://zh.pronouns.page/@jioushan)
 
-○掉進了一所監獄大學（又稱OO市第二監獄，要不是為了學士證和畢業證，加油w還有1年就要脫離苦海了，每天飽受摧殘。
+○脱离苦海 整理思绪ing
 
 
 
-目前状态：尋求一份job... or 順利畢業 or 會更多語言 or 計算機技能大提高&#x20;
+
+
+目前状态：⚠️尋求一份job... or 會更多語言 or 計算機技能大提高&#x20;
 
 \
 
