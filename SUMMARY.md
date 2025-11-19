@@ -9,6 +9,7 @@
 
 ## Blog
 
+* [NAT64 form Tayga](blog/nat64-form-tayga.md)
 * [k3s初接觸](blog/k3s-chu-jie-chu.md)
 * [書籤用](blog/shu-qian-yong.md)
 * [HKの旅](blog/hkno.md)
