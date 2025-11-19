@@ -62,20 +62,18 @@ Ingress游戏 山东 地区的瓜
 
 为什么这样写是错误的。
 
-| <pre><code>[build]
+<table data-header-hidden><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><pre><code>[build]
   command = "npm run build"
   upload = "dist/*"
-</code></pre> |   |
-| -------------------------------------------------------------------------------- | - |
+</code></pre></td><td></td></tr></tbody></table>
 
 官方的文档是这样的，
 
-|   | <pre><code>[build]
+<table data-header-hidden><thead><tr><th></th><th></th></tr></thead><tbody><tr><td></td><td><pre><code>[build]
 command = "npm run build"
 cwd = "build_cwd"
 watch_dir = "build_watch_dir"
-</code></pre> |
-| - | ---------------------------------------------------------------------------------------------------------- |
+</code></pre></td></tr></tbody></table>
 
 所以我想知道为什么js不可以调用index.html真的让人很费解呢。
 

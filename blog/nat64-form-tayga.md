@@ -124,18 +124,52 @@ rtt min/avg/max/mdev = 1.243/1.275/1.335/0.042 ms
 
 ```
 root@debian:~# cat /etc/resolv.conf 
-#nameserver 2606:4700:4700::1111
-#nameserver fd00::8.8.8.8
-#nameserver fd00::1.1.1.1
 nameserver 2001:4860:4860::6464
 ```
 
+您可以設置為Google/Cloudflare所提供的DNS64使用的address\
+\
+您也可以自己建設，如我不希望使用`64:ff9b::/96`地址來進行`NAT64`那您可以參考我的以下配置。\
+
+
+```
+cat /etc/tayga.conf
+
+tun-device nat64
+ipv4-addr 192.168.30.200
+
+# 注意：Tayga 使用 'dynamic-pool' 而不是 'ipv4-pool'
+dynamic-pool 192.168.30.0/24
+
+# 注意：Tayga 使用 'prefix' 而不是 'nat64-prefix'
+prefix fd00::/96
+
+# 确保 data-dir 独占一行，不要跟上一行连在一起
+data-dir /var/spool/tayga
+```
+
+我們不需要聲明`ipv6-addr 2602:f919:926:10::200`，只需要改變`fd00::/96`為您所需要ipv6 prefix。\
+
+
+請自行`system restart tayga`,接口的路由也應當對應正確的地址。即可生效。\
+
+
+但是請注意，採用非64:ff9b::/96 時您應當自行通過bind假設DNS64 server
+
+確保您的only ipv6客戶端可以完成解析實行地址轉換。
+
+至此教程結束。\
+
+
+以下僅展示NAT64運作起來image
+
+<figure><img src="../.gitbook/assets/photo_2025-11-19_07-20-28.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
-
+\
 参考资料：\
 1.[JPIRR ](https://www.nic.ad.jp/ja/newsletter/No64/NL64_0800.pdf)\
 2.[RFC6146](https://www.rfc-editor.org/rfc/pdfrfc/rfc6146.txt.pdf)\
-3.Tayga  [repository](https://github.com/new)
+3.Tayga  [repository](https://github.com/apalrd/tayga)
 
