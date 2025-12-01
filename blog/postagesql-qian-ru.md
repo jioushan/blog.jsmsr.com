@@ -40,7 +40,7 @@ email VARCHAR(150)
 ​
 ```
 
-#### 創建表內容;
+### 創建表內容;
 
 ```
 INSERT INTO person  (
@@ -60,7 +60,7 @@ date '1988-01-01'
 select * from person;
 ```
 
-### 查看表
+## 查看表
 
 ```
 -- 查看当前序列名称
@@ -74,7 +74,7 @@ ALTER SEQUENCE person1_id_seq RESTART WITH 1;
 select * from person;
 ```
 
-#### `查看表内容`
+### `查看表内容`
 
 ```
 select first_name from person;
@@ -88,9 +88,9 @@ select first_name, last_name from person;
 
 ***
 
-### 用法
+## 用法
 
-#### 升序/降序 `ASC`/`DESC`
+### 升序/降序 `ASC`/`DESC`
 
 ```
 -- 降序
@@ -101,7 +101,7 @@ select * from person2 order by country_of_birth ASC;
 select * from person2 order by country_of_birth;
 ```
 
-#### `DISTINCT` 去重
+### `DISTINCT` 去重
 
 ```
 SELECT DISTINCT country_of_birth FROM person2 ORDER BY country_of_birth;
@@ -115,7 +115,7 @@ select distinct country_of_birth from person2 order by country_of_birth 
 
 ***
 
-#### `Where` 查找
+### `Where` 查找
 
 `Where Clause and AND`
 
@@ -149,7 +149,7 @@ select * from person2 where gender = 'Female' and (country_of_birth =�
 
 ***
 
-#### `Comparison Operators`
+### `Comparison Operators`
 
 ```
 SELECT 1 < 2; T
@@ -179,7 +179,7 @@ SELECT 1 < 2; T
 
 ***
 
-#### `limit` & `offset` & `IN`
+### `limit` & `offset` & `IN`
 
 `LIMIT` 至少だけ　のみ
 
@@ -222,7 +222,7 @@ where country_of_birth in ('China', 'Brazil', 'France', 'Mexico', 'Portug
 order by country_of_birth;
 ```
 
-#### `Between` & `Like`
+### `Between` & `Like`
 
 `Between` 区间
 
@@ -262,7 +262,7 @@ where email like '______@%';
 
 `______@%`@前面6个字符
 
-#### `Group`
+### `Group`
 
 `group`
 
@@ -282,9 +282,9 @@ select country_of_birth, count(*)
 from person2 group by country_of_birth;
 ```
 
-#### `count(*)` 计数
+### `count(*)` 计数
 
-#### `group by having`
+### `group by having`
 
 ```
 select country_of_birth, count(*)
@@ -302,11 +302,11 @@ having count(*) >= 5
 
 ***
 
-### Adding New Table And Data Using Mockaroo
+## Adding New Table And Data Using Mockaroo
 
 [https://www.mockaroo.com](https://www.mockaroo.com/) 使用这个网站我们可以创建一些table来便于我们体会到这些用法.
 
-#### `Input table` 导入表
+### `Input table` 导入表
 
 ```
 \i /path/car.sql
@@ -314,7 +314,7 @@ having count(*) >= 5
 
 导入`car.sql` `path`为你的路径
 
-#### `MAX` & `MIN` & AVG & `SUM` & `ROUND()`
+### `MAX` & `MIN` & AVG & `SUM` & `ROUND()`
 
 `Max` 最大 用法
 
@@ -354,7 +354,7 @@ FROM car
 GROUP BY make, model;
 ```
 
-#### `运算`
+### `运算`
 
 price 乘以 0.10（也就是 10%）,返回直
 
@@ -424,7 +424,7 @@ select coalesce(email, 'Email not provided') from person2;
 
 `NULL IF`
 
-#### `NOW()`
+### `NOW()`
 
 sql时间
 
