@@ -1,32 +1,32 @@
 # Postagesql 浅入
 
-### `创建table`
+## `创建table`
 
-#### 創建datebase test
+### 創建datebase test
 
 ```
 CREATE DATEBASE <test>;
 ```
 
-#### 刪除database test
+### 刪除database test
 
 ```
 DROP DATEBASE <test>;
 ```
 
-#### 創建table test;
+### 創建table test;
 
 ```
 CREATE TABLE <table_name>;
 ```
 
-#### 刪除table preson;
+### 刪除table preson;
 
 ```
 DROP TABLE preson;
 ```
 
-#### 創建表名/表內容;
+### 創建表名/表內容;
 
 ```
 CREATE TABLE person1 (
@@ -474,5 +474,7 @@ select NOW()::date + interval '10 day';
 2025-12-11 00:00:00.000
 ```
 
+\
+\
 \
 <br>
