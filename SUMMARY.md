@@ -9,6 +9,7 @@
 
 ## Blog
 
+* [Debian12 & Debian13 系統手動路由分表的小插曲](blog/debian12-debian13-xi-tong-shou-dong-lu-you-fen-biao-de-xiao-cha-qu.md)
 * [Postagesql 浅入](blog/postagesql-qian-ru.md)
 * [NAT64 form Tayga](blog/nat64-form-tayga.md)
 * [k3s初接觸](blog/k3s-chu-jie-chu.md)
@@ -51,7 +52,7 @@
 * [🌏 在公網宣告地址須知](blog/bgp-jiao-cheng.md)
 * [🗒️ 云游戏II](blog/yun-you-xi-ii.md)
 * [😖 自己的闲言碎语](blog/zi-ji-de-xian-yan-sui-yu.md)
-* [🧑‍💻 Sony xperia docomo XZ2C  回退系统](blog/sony-xperia-docomo-xz2c-hui-tui-xi-tong.md)
+* [🧑‍💻 Sony xperia docomo XZ2C 回退系统](blog/sony-xperia-docomo-xz2c-hui-tui-xi-tong.md)
 * [🗒️ Big Sure 入门指北](blog/big-sure-ru-men-zhi-bei.md)
 * [泛談科學協議選擇](blog/fan-qiang-xie-yi-de-xuan-ze-xing.md)
 * [🧑‍💻 给Skura主题添加个性的LOGO](blog/gei-skura-zhu-ti-tian-jia-ge-xing-de-logo.md)
