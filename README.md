@@ -4,5 +4,7 @@ description: jioushan
 
 # Index
 
-## 欢迎访问JiouShan的Blog.
+ようこそ、JiouShan的Blog.
+
+明けましておめでとう、来年もよろしくお願い
 
