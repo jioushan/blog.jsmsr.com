@@ -20,7 +20,7 @@ description: 關於我
 
 ○ 丧文化思考方式 :bad:
 
-○ ？学生~~,除却日耳曼语系以外其他小语种都喜欢  :lauguage:~~  希望掌握西語，求求了今年日語順利過N2，該死的畢業要求。
+○ ？学生~~,除却日耳曼语系以外其他小语种都喜欢  :lauguage:~~  希望掌握西語，求求了今年日語順利過N2。
 
 ○ CN /（ok ）
 
@@ -32,7 +32,7 @@ Spanish(learning)
 
 ○　Linux /IOS/Android（use it. (Not use Win
 
-○　We can Code read,but Not do write.../
+○　Can  read Code,config something.../
 
 &#x20;○ ~~昭和文化热爱者 :a Showajidai  history like:~~
 
@@ -44,7 +44,7 @@ Spanish(learning)
 
 :Pansexuality: [more detail](https://zh.pronouns.page/@jioushan)
 
-○脱离苦海 整理思绪ing
+
 
 
 
@@ -56,7 +56,7 @@ Spanish(learning)
 
 Find Me:
 
-&#x20; ○[Github](https://github.com/jioushan)  ○[Email](mailto:admin@jsmsr.com)&#x20;
+&#x20; ○[Github](https://github.com/jioushan)  ○[Email](mailto:parsecs.comity-0a@icloud.com)&#x20;
 
 
 
