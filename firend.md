@@ -1,8 +1,8 @@
 ---
-description: 友链
+description: Friend link
 ---
 
-# Firend
+# 友達リンク
 
 ## 伙伴们
 

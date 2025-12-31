@@ -1,11 +1,11 @@
 # Table of contents
 
 * [ホームページ](README.md)
-* [Project](project.md)
-* [Firend](firend.md)
+* [プロジェクト](project.md)
+* [友達リンク](firend.md)
 * [Travelling](https://www.travellings.cn/go.html)
-* [Donate](donate.md)
-* [About-Me](abuout-me.md)
+* [支援とサポート](donate.md)
+* [僕は](abuout-me.md)
 
 ## Blog
 
