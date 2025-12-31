@@ -5,7 +5,7 @@
 * [友達リンク](firend.md)
 * [Travelling](https://www.travellings.cn/go.html)
 * [支援とサポート](donate.md)
-* [僕は](abuout-me.md)
+* [プロフィール](abuout-me.md)
 
 ## Blog
 
