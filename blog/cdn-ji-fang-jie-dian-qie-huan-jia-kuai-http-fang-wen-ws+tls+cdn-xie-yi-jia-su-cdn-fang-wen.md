@@ -27,7 +27,7 @@ description: CDN、cloud flare、v2Ray、ws+TLS+CDN
 
 ## 解决方案
 
-### 我们需要http网站域名解析的时候根据不同的网络情况走不同的主机。来优化网络分发（CDN）服务，这样体验才会很好。（你无法在CDN主机里给你做动态路由表来提高你的解析优化线路）那么我们就选择另一种方式。 
+### 我们需要http网站域名解析的时候根据不同的网络情况走不同的主机。来优化网络分发（CDN）服务，这样体验才会很好。（你无法在CDN主机里给你做动态路由表来提高你的解析优化线路）那么我们就选择另一种方式。<br>
 
 ### &#x20;这个时候，你的域名DNS解析商已经可以不用走cloud flare的了。我们将其修改为其他家的。（极其推荐腾讯下的dnspod）它拥有针对访问域名商走不通的线路。利用此功能就可以解决分配CDN机房解析的问题。  先挪到dnspod解析。添加解析值。这里说一句。 &#x20;
 
@@ -37,4 +37,4 @@ description: CDN、cloud flare、v2Ray、ws+TLS+CDN
 
 #### **插入腾讯云推广广告**。（Google广告你们不点击。那个一次才3美分。那还不如国内广告推广下，你们在我的链接注册，购买腾讯云产品。我也有佣金可以拿。）死皮赖脸一波。网站没有啥收入，也就靠广告维持下。赚个零花钱。&#x20;
 
-助力产业智慧升级，云服务器首年88元起，更有千元代金券礼包免费领！ [点此访问](https://cloud.tencent.com/act/cps/redirect?redirect=1048\&cps\_key=8d80a5274f7ac63bba5112dbb40c5037\&from=console)&#x20;
+助力产业智慧升级，云服务器首年88元起，更有千元代金券礼包免费领！ [点此访问](https://cloud.tencent.com/act/cps/redirect?redirect=1048\&cps_key=8d80a5274f7ac63bba5112dbb40c5037\&from=console)&#x20;

@@ -45,8 +45,7 @@ description: 使用bird推荐的一些wiki
 [dn42](https://dn42.eu/Home)
 
 最后，附一篇dn42关于bird,mpls的实现\
-[https://dn42.eu/howto/mpls-bird2](https://dn42.eu/howto/mpls-bird2)\
-
+[https://dn42.eu/howto/mpls-bird2](https://dn42.eu/howto/mpls-bird2)<br>
 
 
 

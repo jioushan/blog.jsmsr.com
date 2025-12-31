@@ -35,22 +35,19 @@ description: Sonoma OS play GenshinS
 `3.0.0（528）`
 
 請右鍵 所安裝的ipa文件，點擊 偏好設定\
-我們需要打開 - 啟用繞過越獄監測\
-
+我們需要打開 - 啟用繞過越獄監測<br>
 
 <figure><img src="../.gitbook/assets/截圖 2023-11-19 11.33.31.png" alt=""><figcaption><p>啟用繞過越獄監測</p></figcaption></figure>
 
 或者 我們可以選擇在 雜項 -移除 playcover
 
-\
-
+<br>
 
 <figure><img src="../.gitbook/assets/截圖 2023-11-19 11.34.26.png" alt=""><figcaption><p>移除playcover</p></figcaption></figure>
 
 我們右鍵這個 app 在finda中查看。\
 \
-然後我們打開終端機 輸入下面的指令\
-
+然後我們打開終端機 輸入下面的指令<br>
 
 ```
  sudo codesign --force --deep --sign - /Users/xxx/Library/Containers/io.playcover.PlayCover/genshinn.app
@@ -74,8 +71,7 @@ description: Sonoma OS play GenshinS
 如果你只是 command+backspace將genshin的安裝app清空垃圾桶 這並不代表 您完整的移除了原神。
 
 mihoyo會在您遊玩原神的過程中 將 遊戲本體數據 下載到以下路徑 還請手動 刪除它們。\
-尤其對於 mac 硬碟 為數不多的人。\
-
+尤其對於 mac 硬碟 為數不多的人。<br>
 
 <figure><img src="../.gitbook/assets/截圖 2023-11-19 10.42.54.png" alt=""><figcaption></figcaption></figure>
 

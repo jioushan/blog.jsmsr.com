@@ -56,8 +56,7 @@ description: 实名上网
 
 
 
-關於如何广播宣告您的ipv6 prefix。首先您要諮詢您的ISP/上游是否具有給您广播BGP的能力？\
-
+關於如何广播宣告您的ipv6 prefix。首先您要諮詢您的ISP/上游是否具有給您广播BGP的能力？<br>
 
 [列举网站](http://bgp.services/)，可以广播 BGP及售卖ip地址段，lir等商家汇总。数据不一定全。
 

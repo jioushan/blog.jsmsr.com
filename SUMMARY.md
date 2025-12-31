@@ -9,6 +9,7 @@
 
 ## Blog
 
+* [在终端 访问http2 website](blog/zai-zhong-duan-fang-wen-http2-website.md)
 * [Debian12 & Debian13 系統手動路由分表的小插曲](blog/debian12-debian13-xi-tong-shou-dong-lu-you-fen-biao-de-xiao-cha-qu.md)
 * [Postagesql 浅入](blog/postagesql-qian-ru.md)
 * [NAT64 form Tayga](blog/nat64-form-tayga.md)

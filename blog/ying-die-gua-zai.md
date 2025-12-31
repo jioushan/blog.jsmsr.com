@@ -59,4 +59,4 @@ UUID=4787465c-dee7-4de6-bbde-3f00931b2fa3 /data1 ext4 defaults 0      0
 
 整理成此格式  後面是掛載到跟目錄的文件夾。 然後是 硬盤分區格式
 
-\
+<br>

@@ -106,8 +106,7 @@ description: '#一个长草的Blog记起更新了。'
 
 ### 结尾的Music
 
-[​​](https://open.spotify.com/track/24TQIQpKJWp4isMbulvifs?si=4cb37e1187924a02)[https://open.spotify.com/track/24TQIQpKJWp4isMbulvifs?si=4cb37e1187924a02](https://open.spotify.com/track/24TQIQpKJWp4isMbulvifs?si=4cb37e1187924a02)\
-
+[​​](https://open.spotify.com/track/24TQIQpKJWp4isMbulvifs?si=4cb37e1187924a02)[https://open.spotify.com/track/24TQIQpKJWp4isMbulvifs?si=4cb37e1187924a02](https://open.spotify.com/track/24TQIQpKJWp4isMbulvifs?si=4cb37e1187924a02)<br>
 
 {% embed url="https://open.spotify.com/track/24TQIQpKJWp4isMbulvifs?si=4cb37e1187924a02" %}
 

@@ -9,11 +9,9 @@ description: Peering or Transit
 Hello, thank you for choosing&#x20;
 
 \
-JSMSR「Jsmsr Experimental Network」「Jsmsr Network」 \
+JSMSR「Jsmsr Experimental Network」「Jsmsr Network」 <br>
 
-
-\[Only IPV6] \
-
+\[Only IPV6] <br>
 
 We serve individuals, educational non-profit users.\
 If you are a commercial user, we are willing to actively establish Peer relationships with you. \

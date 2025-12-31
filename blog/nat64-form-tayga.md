@@ -7,8 +7,7 @@ description: On the Linux system use Tayga enable NAT64
 NAT64/DNS64 早就不是什么稀罕的技术，准确说它是为了帮助only ipv6用户过渡实现可以访问ipv4网络一项协议。被[RFC6146](https://www.rfc-editor.org/rfc/pdfrfc/rfc6146.txt.pdf)所定义。\
 \--------\
 我们使用Linux Debian做实验，希望这小小的tayga配置可以帮助您理清思路。\
-我希望并呼吁 各位ISP 尽早为您的only ipv6客户至少support NAT64/DNS64这项服务。\
-
+我希望并呼吁 各位ISP 尽早为您的only ipv6客户至少support NAT64/DNS64这项服务。<br>
 
 您截止到这篇文章2025年为止，目前\[network type]Carrier(CGN)/Eyeball尽管绝大多数声成支持ipv6网络。\
 但是几乎包括GitHub,Discord,speedtest.net,这样的网站尽管通过CDN分发等技术，only ipv6网络用户可以下载来自贵网的文件，但是内在api等多个服务仍然还是指向了纯ipv4访问，或者说有太多的服务的ipv6都不是足以脱离ipv4正常访问的。\
@@ -54,8 +53,7 @@ data-dir /var/spool/tayga
 
 `192.168.30.0/24` rage 這是RFC1912所定義的局域網常見prefix地址。\
 `2602:f919:926:10::200`也只是這裡tayga使用時所檢測到的地址轉換preifx address。\
-`2602:f919:926:10::/64`這個地址塊被我分配給 我的 Linux路由器下面的設備。因為它們才是only ipv6的環境設備，而作為Linux 的這台Route是具有ipv4的訪問能力的。而NAT64應當部署在這裡。\
-
+`2602:f919:926:10::/64`這個地址塊被我分配給 我的 Linux路由器下面的設備。因為它們才是only ipv6的環境設備，而作為Linux 的這台Route是具有ipv4的訪問能力的。而NAT64應當部署在這裡。<br>
 
 請自行替換掉 這裡的RFC1912地址和ipv6 address確保符合您的網路需求。\
 另外，還請手動 `mkdir /var/spool/tayga`創建所需目錄。&#x20;
@@ -69,8 +67,7 @@ Active: active (running)
 ```
 
 確保您的tayga處於運作狀態，`Active: active (running)。`\
-\
-
+<br>
 
 鍵入`tayga --mktun`命令確認接口被創建
 
@@ -103,8 +100,7 @@ root@pve$ iptables -t nat -A POSTROUTING -s 192.168.30.0/24 -o vmbr0 -j MASQUERA
 ##5.若刪除這條規則，請自行將 -A參數變更為-D
 ```
 
-接下來我們測試我們能否ping通我們在tayga聲明的地址`ipv4-addr 192.168.30.200`\
-
+接下來我們測試我們能否ping通我們在tayga聲明的地址`ipv4-addr 192.168.30.200`<br>
 
 如果沒問題，我們去我們的ipv6設備進行測試。
 
@@ -129,8 +125,7 @@ nameserver 2001:4860:4860::6464
 
 您可以設置為Google/Cloudflare所提供的DNS64使用的address\
 \
-您也可以自己建設，如我不希望使用`64:ff9b::/96`地址來進行`NAT64`那您可以參考我的以下配置。\
-
+您也可以自己建設，如我不希望使用`64:ff9b::/96`地址來進行`NAT64`那您可以參考我的以下配置。<br>
 
 ```
 cat /etc/tayga.conf
@@ -148,18 +143,15 @@ prefix fd00::/96
 data-dir /var/spool/tayga
 ```
 
-我們不需要聲明`ipv6-addr 2602:f919:926:10::200`，只需要改變`fd00::/96`為您所需要ipv6 prefix。\
+我們不需要聲明`ipv6-addr 2602:f919:926:10::200`，只需要改變`fd00::/96`為您所需要ipv6 prefix。<br>
 
-
-請自行`system restart tayga`,接口的路由也應當對應正確的地址。即可生效。\
-
+請自行`system restart tayga`,接口的路由也應當對應正確的地址。即可生效。<br>
 
 但是請注意，採用非64:ff9b::/96 時您應當自行通過bind假設DNS64 server
 
 確保您的only ipv6客戶端可以完成解析實行地址轉換。
 
-至此教程結束。\
-
+至此教程結束。<br>
 
 以下僅展示NAT64運作起來image
 

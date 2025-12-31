@@ -52,8 +52,7 @@ Spanish(learning)
 
 目前状态：⚠️尋求一份job... or 會更多語言 or 計算機技能大提高&#x20;
 
-\
-
+<br>
 
 Find Me:
 

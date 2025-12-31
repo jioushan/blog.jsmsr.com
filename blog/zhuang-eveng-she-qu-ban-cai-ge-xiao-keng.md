@@ -39,4 +39,4 @@ eve官方[安裝手冊](https://www.eve-ng.net/index.php/documentation/community
 順便補倆 鼓搗pve 能幫到你的url \
 pve-sant[教程](https://foxi.buduanwang.vip/virtualization/pve/2787.html/)
 
-pve 中文 [手冊](https://pve-doc-cn.readthedocs.io/zh\_CN/latest/index.html)\
+pve 中文 [手冊](https://pve-doc-cn.readthedocs.io/zh_CN/latest/index.html)<br>

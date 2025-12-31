@@ -17,8 +17,7 @@ description: 在公網上正確可達的困擾情緒
 
 介于IPV4 已经分配完了，所以目前ipv4 prefix 大多数都是以商业租赁为主，若您对/24
 
-有兴趣，您的预算在800/月 RMB 左右 您在考虑ipv4宣告使用\
-
+有兴趣，您的预算在800/月 RMB 左右 您在考虑ipv4宣告使用<br>
 
 #### IPv6 本篇通指
 
@@ -84,7 +83,7 @@ ipv6 prefix，
 
 您没有设备（咱窮的叮噹響，託不起管，租不起1U），和我一样！选择小众且说得过去的IX join！较大可能性对方会要求您 购买它们的VM才可以进行IX ，才有机会join IX
 
-那些带HE的，ipv6目前来说 HE（AS6939）才是[T1](https://en.wikipedia.org/wiki/Tier\_1\_network)\
+那些带HE的，ipv6目前来说 HE（AS6939）才是[T1](https://en.wikipedia.org/wiki/Tier_1_network)\
 ~~您无脑接它，您的网络才全球可达！~~
 
 还有就是IX不是说加就加的，有點耐心吼！
