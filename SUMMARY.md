@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Index](README.md)
+* [ホームページ](README.md)
 * [Project](project.md)
 * [Firend](firend.md)
 * [Travelling](https://www.travellings.cn/go.html)

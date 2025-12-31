@@ -1,8 +1,8 @@
 ---
-description: jioushan
+description: home-page
 ---
 
-# Index
+# ホームページ
 
 ようこそ、JiouShan的Blog.
 
