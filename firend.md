@@ -8,6 +8,10 @@ description: Friend link
 
 不分先后顺序
 
+## [チャリリ](https://chariri.moe/)
+
+
+
 ## [Razuritta’s Notebook](https://blog.razuritta.me/)
 
 拉兹先生的在线笔记
@@ -28,51 +32,51 @@ description: Friend link
 
 喜歡睡覺
 
-### [米莉亞](https://mireya.moe/)
+## [米莉亞](https://mireya.moe/)
 
 Still Alive.
 
-### [Sun's Blog](https://www.6700.cc)
+## [Sun's Blog](https://www.6700.cc)
 
 **N/A**
 
-### [zhxy-CN の小窝](https://owo.cab)
+## [zhxy-CN の小窝](https://owo.cab)
 
 希望你今后的旅程，每天都像庆典一样开心。
 
-### [海马](https://peers.cloud/)
+## [海马](https://peers.cloud/)
 
 **一个菜鸡不怎么更新的小站**
 
-### [**夜空**](https://blog.moeqing.com)
+## [**夜空**](https://blog.moeqing.com)
 
 **A Salted fish.**
 
-### [Shucheng Li](https://snli.org/)
+## [Shucheng Li](https://snli.org/)
 
 **N/A**
 
-### [**KSKB**](https://blog.kskb.eu.org)
+## [**KSKB**](https://blog.kskb.eu.org)
 
 圖靈不完全的小小部落格
 
-### [Sukka's Blog](https://skk.moe)
+## [Sukka's Blog](https://skk.moe)
 
 童话只美在真实却从不续写
 
-### [MAO486](https://blog.xn--5ivs9a.work/)  &#x20;
+## [MAO486](https://blog.xn--5ivs9a.work/)  &#x20;
 
 #### 一个宅的“家”
 
-### [Mashiro](https://2heng.xin)
+## [Mashiro](https://2heng.xin)
 
 #### 樱花庄的白猫
 
-### [个站商店](https://storeweb.cn/)
+## [个站商店](https://storeweb.cn/)
 
 #### 个人网站收录集合
 
-### [約束の明日へ](https://kiseki.blog/)
+## [約束の明日へ](https://kiseki.blog/)
 
 #### また君を思い出すよ
 
