@@ -4,9 +4,7 @@ description: PowerDNS Recursor_NAT64 Server
 
 # PowerDNS Recursor\_NAT64 Server
 
-PowerDNS Recursor\_NAT64 Server
-
-1.这项服务部署好其实有一阵子了,但是借着配置`Power DNS Recursior`这个模式它的递归模式. 我们来说说这里的配置.
+这项服务部署好其实有一阵子了,但是借着配置`Power DNS Recursior`这个模式它的递归模式. 我们来说说这里的配置.
 
 截止到我写这篇文章,我注意到在Debian系统中较新的PowerDns版本已经趋向使用yml格式的配置了,而过去的配置能否继续使用,参数是否仍然正确。这取决你是否要upgrade. 因此借助我下面的配置,各位看官您自行判断利弊.
 
@@ -108,5 +106,6 @@ end
 root@pve:/etc/powerdns# 
 ```
 
-\
-<br>
+最后的music
+
+{% embed url="https://embed.music.apple.com/jp/album/lilium-from-elfen-lied/1345117976?i=1345117982" %}
