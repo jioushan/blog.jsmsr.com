@@ -52,7 +52,7 @@ pip install litellm --break-system-packages
 
 我這種這種在root用戶下安裝包在下很不推薦,
 
-###
+### AWS IAM
 
 由於我們使用`Amazon Bedrock`我們需要提前在我們的AWS控制台IAM-users-建立人員 隨便起個名字,密碼保存下 建議下載csv. 但是這裡的帳戶密碼並不是我們要用的，建立完成後， 讓我們 `新增許可`
 
@@ -62,6 +62,8 @@ AmazonBedrockMarketplaceAccess
 ```
 
 點擊存取密鑰,創建存取密鑰，務必下載`csv文件`，這裡的ID\_Key和密鑰才是我們接下來配置存取`Amazon Bedrock`關鍵,順帶一提,令和7年註冊的AWS帳戶開通`Amazon Bedrock`需要手動填寫工單向客戶說明提高配額，否則極大概率無法使用AWS提供的`Amazon Bedrock`服務,更無法調取各種模型.
+
+### Config awscli
 
 讓我們繼續，由於Debian12這裡發行版的版本較長遠
 
@@ -105,6 +107,8 @@ Default output format [None]: json
 ```
 aws bedrock list-foundation-models --region ap-northeast-1
 ```
+
+### litellm config
 
 查看到aws的`bedrock models list`
 
@@ -164,11 +168,15 @@ curl http://127.0.0.1:4000/v1/chat/completions \
 
 鍵入如下便可以看到順利運作的API返回的信息
 
+❕warning
+
 我在對接telegram bot這一步遇到了nodejs的內存不夠報錯,所提起把環境變量調整一下
 
 ```
 export NODE_OPTIONS="--max-old-space-size=1024"
 ```
+
+### Openclaw install
 
 至此我們進入配置Openclaw的第一步,
 
@@ -228,6 +236,8 @@ Failed to move to Trash (manual delete): ~/.openclaw/agents/main/sessions
 
 讓我頭大的還是
 
+### gateway running
+
 ```
 openclaw gateway run
 ```
@@ -238,7 +248,9 @@ openclaw gateway run
 
 我只能通過`bg`這樣的命令放入後台.
 
-一些命令
+## 終
+
+### Commands
 
 ```
 openclaw config set model.baseURL http://127.0.0.1:4000/v1
@@ -254,6 +266,8 @@ openclaw doctor --fix
 3. 运行诊断：openclaw doctor
 ​
 ```
+
+### Document
 
 關於更多還清查看官方文檔, 還清查看官方文檔, [openclaw.ai](https://docs.openclaw.ai/)
 
