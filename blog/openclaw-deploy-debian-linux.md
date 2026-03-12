@@ -280,4 +280,7 @@ openclaw doctor --fix
 最後は、ここで読んだ人は、誠にありがとうございます。 以上です。
 
 \
-<br>
+音楽:
+---
+
+{% embed url="https://embed.music.apple.com/jp/album/%E4%BB%A5%E5%BF%83%E9%9B%BB%E4%BF%A1/1537381284?i=1537381288" %}
