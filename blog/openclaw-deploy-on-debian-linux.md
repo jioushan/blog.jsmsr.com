@@ -1,6 +1,6 @@
-# OpenClaw Deploy Debian Linux
+# OpenClaw Deploy On Debian Linux
 
-## 始まる
+## 始める
 
 \
 最近的`OpenClaw`可谓是沸沸扬扬, 本质上这只是一个工具,却被各种商业/媒体非理性炒作,<br>
@@ -51,6 +51,8 @@ pip install litellm --break-system-packages
 ```
 
 我這種這種在root用戶下安裝包在下很不推薦,
+
+###
 
 由於我們使用`Amazon Bedrock`我們需要提前在我們的AWS控制台IAM-users-建立人員 隨便起個名字,密碼保存下 建議下載csv. 但是這裡的帳戶密碼並不是我們要用的，建立完成後， 讓我們 `新增許可`
 
