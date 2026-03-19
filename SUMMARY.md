@@ -9,6 +9,7 @@
 
 ## Blog
 
+* [日本語語彙](blog/ri-ben-yu-yu-hui.md)
 * [OpenClaw Deploy On Debian Linux](blog/openclaw-deploy-debian-linux.md)
 * [Prometheus Deploy](blog/prometheus-deploy.md)
 * [PowerDNS Recursor\_NAT64 Server](blog/powerdns-recursor_nat64-server.md)
