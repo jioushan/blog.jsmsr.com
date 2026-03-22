@@ -9,6 +9,7 @@
 
 ## Blog
 
+* [On Asahi Linux Debian13 used Widevine](blog/on-asahi-linux-debian13-used-widevine.md)
 * [日本語語彙](blog/ri-ben-yu-yu-hui.md)
 * [OpenClaw Deploy On Debian Linux](blog/openclaw-deploy-debian-linux.md)
 * [Prometheus Deploy](blog/prometheus-deploy.md)
