@@ -73,3 +73,5 @@ root@debian ~ # 
 ```
 
 水一篇博文,BBR2 VS BBR3 測試的話看心情發.
+
+{% embed url="https://embed.music.apple.com/jp/album/iris-out-single/1837658528" %}
