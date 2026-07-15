@@ -88,12 +88,13 @@ fastboot --set-active=b
 
 2.接下來我們來說 普通的fast boot線刷包降級。這個不需要依賴像9008那樣完全依賴win syste，只要任何PC支援adb命令我們即可完成操作。
 
-Down load這個link下面的包，並完成解壓縮, cd 命令進入到解壓縮的路徑下<br>
+Down load這個[link](https://mega.nz/file/855VHB7R#Ywt5idFPTIz9rbpiLl1_hYwM3B-8k7MHtCxBslvvWyw)下面的包，並完成解壓縮, cd 命令進入到解壓縮的路徑下<br>
 
 ```
 fastboot -w update images.zip 
 #刷入系統即可
 ```
 
-
+⚠️順帶一提,oplus6在這個時候你拿到手裡的時候系統未必是oxygen,HydrogenOS之類的中國大陸專供的系統的話,以上的操作也是完全可行的,我更建議從hydrogenOS先卡刷降級到android9的版本在刷入oxygen\
+<br>
 
