@@ -75,5 +75,25 @@ fastboot oem unlock
 #解鎖後,音量鍵選擇 確認解鎖，電源按鈕確認... wipe user date. reboot phone && join your system
 ```
 
+如何在fast boot模式下確認分區\
+\
+你需要有一些A/B分區的概念. 言簡意賅就是,如果你要進行fast boot刷機，通常在進行跨版本或者跨Recover的時候你應當A和B分區都要刷入一次。要不然會造成很大的麻煩/
+
+```
+fastboot getvar current-slot
+#check你現在呢分區
+fastboot --set-active=b
+#切換到b分區,反之你也可以set到A分區
+```
+
+2.接下來我們來說 普通的fast boot線刷包降級。這個不需要依賴像9008那樣完全依賴win syste，只要任何PC支援adb命令我們即可完成操作。
+
+Down load這個link下面的包，並完成解壓縮, cd 命令進入到解壓縮的路徑下<br>
+
+```
+fastboot -w update images.zip 
+#刷入系統即可
+```
+
 
 
