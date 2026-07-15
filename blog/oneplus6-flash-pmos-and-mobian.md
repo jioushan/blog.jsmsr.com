@@ -4,7 +4,7 @@
 
 許多年前，我在部分熟知的人面前提起過Linux智能體智慧手機項目的時候，大多數人都不看好。或者冷嘲熱諷。
 
-當我得知未來的Android17 GMS將進一步收緊,意味著你希望自由的安裝apk這樣的需求都被權限所限制。雖然你有開源社群中LineageOS之類的選擇，但我又再一次陷入思考，對我來說，數據隱私一直是我重視的一件事。data那在自己手中，而Linux kernel智慧手機設備。我也從憧憬到希望加入這個社區。盡一分自己的微不足道的力量。
+當我得知未來的Android17 GMS將進一步收緊,意味著你希望自由的安裝apk這樣的需求都被權限所限制。雖然你有開源社群中[LineageOS](https://lineageos.org/)之類的選擇，但我又再一次陷入思考，對我來說，數據隱私一直是我重視的一件事。data那在自己手中，而Linux kernel智慧手機設備。我也從憧憬到希望加入這個社區。盡一分自己的微不足道的力量。
 
 這個時代。你會繼續受制於各種大廠每年的更新週期push一些花哨的UI，帶著不足夠成熟打磨的功能的新的OS系統版本，還是嘴上喊著自由用者最便利生活的IOS devices。這都無所謂。僅代表你自己的選擇。
 
@@ -44,4 +44,36 @@ Linux kernel就像一粒種子，在PC還是server領域已經播種數年，蓬
 但如若你連自己都不做思考去構建,一味的只是體驗享受希望當浪花過後你還留在沙灘上,而不是伴隨海浪一起捲入海中。願科技進步人類不要搬起石頭砸自己的腳！<br>
 
 ### Start
+
+我們先介紹刷入[Ubuntu touc](https://www.ubuntu-touch.io/),我們可以看到在ubuntu touch的支持中,one plus6/6T的機型是支援的,基本上大致流程就是下載它們的app到PC,然後我們準備我們的前置工作。
+
+給系統降降級到android9.0,在這裡我先介紹高通9008 EBL的[線刷包](https://onepluscommunityserver.com/list/Unbrick_Tools/OnePlus_6/)！請注意這個模式下 你只能使用win system.進行flash.\
+而在win上面要 安裝 [android Device驅動](https://developer.android.com/studio/run/win-usb?hl=ja),進入**高級恢復模式**F7**禁用數字簽名**安裝高通驅動,oneplus6如何進入高9008線刷救磚模式呢？\
+關機，如果你卡在任何情況下，請長按電源Botton長達7-15秒以上手機會自行關機。\
+關機狀態下,音量+ 音量-一同按著插入Type-c 如果電腦正確識別COM 9008即進入成功。\
+這個狀態下,手機屏幕全黑屏,但是one plus6這台手機的指示燈會亮起.請不用擔心。\
+注意 使用線刷完成之後,你的手機OEM 即BL鎖會自動回鎖。如何解鎖相比也很簡單.\
+進入系統後
+
+1.setting關於手機-版本號敲擊N次出現開發者模式-進入開發者-打開OEM 解鎖 和 USB調試\
+\
+以下我們adb命令盡快闡述
+
+```
+adb devices
+#確認ADB 設備連結
+```
+
+```
+adb reboot bootloader 
+#adb模式下重啟進入bl（fastboot模式）
+```
+
+```
+fastboot oem unlock
+#fastboot下解鎖BL鎖定
+#解鎖後,音量鍵選擇 確認解鎖，電源按鈕確認... wipe user date. reboot phone && join your system
+```
+
+
 
