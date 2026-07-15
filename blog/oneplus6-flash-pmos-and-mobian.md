@@ -45,9 +45,9 @@ Linux kernel就像一粒種子，在PC還是server領域已經播種數年，蓬
 
 ### Start
 
-我們先介紹刷入[Ubuntu touc](https://www.ubuntu-touch.io/),我們可以看到在ubuntu touch的支持中,one plus6/6T的機型是支援的,基本上大致流程就是下載它們的app到PC,然後我們準備我們的前置工作。
+我們先介紹刷入[Ubuntu touc](https://www.ubuntu-touch.io/)h,我們可以看到在ubuntu touch的支持中,one plus6/6T的機型是支援的,基本上大致流程就是下載它們的app到PC,然後我們準備我們的前置工作。
 
-給系統降降級到android9.0,在這裡我先介紹高通9008 EBL的[線刷包](https://onepluscommunityserver.com/list/Unbrick_Tools/OnePlus_6/)！請注意這個模式下 你只能使用win system.進行flash.\
+給系統降降級到android9.0,在這裡我先介紹高通9008 EDL的[線刷包](https://onepluscommunityserver.com/list/Unbrick_Tools/OnePlus_6/)！請注意這個模式下 你只能使用win system.進行flash.\
 而在win上面要 安裝 [android Device驅動](https://developer.android.com/studio/run/win-usb?hl=ja),進入**高級恢復模式**F7**禁用數字簽名**安裝高通驅動,oneplus6如何進入高9008線刷救磚模式呢？\
 關機，如果你卡在任何情況下，請長按電源Botton長達7-15秒以上手機會自行關機。\
 關機狀態下,音量+ 音量-一同按著插入Type-c 如果電腦正確識別COM 9008即進入成功。\
