@@ -9,6 +9,7 @@
 
 ## Blog
 
+* [Some Email Services Guide](blog/some-email-services-guide.md)
 * [OnePlus6 Flash PmOS\&Mobian](blog/oneplus6-flash-pmos-and-mobian.md)
 * [BBR3](blog/bbr3.md)
 * [On Asahi Linux Debian13 used Widevine](blog/on-asahi-linux-debian13-used-widevine.md)
