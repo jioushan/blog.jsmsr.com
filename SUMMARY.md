@@ -9,6 +9,7 @@
 
 ## Blog
 
+* [『ミカクテイ事件の観測者』-- ゲーム体験](blog/mikakuteino-gmu.md)
 * [Some Email Services Guide](blog/some-email-services-guide.md)
 * [OnePlus6 Flash PmOS\&Mobian](blog/oneplus6-flash-pmos-and-mobian.md)
 * [BBR3](blog/bbr3.md)
