@@ -94,17 +94,19 @@ YouTube [link](https://youtu.be/qWFDLyo5M50)
 
 這部遊戲的中文翻譯是那麼過於本土化,有不少本土化的梗和詞彙,我想希望準確理解傳達的意圖,應當再體驗一次日文版的樂趣！
 
-儘管目前
+儘管目前 製作團隊還未支援macOS,linux客戶端設備,但如果你使用[Wine HQ](https://www.winehq.org/),或者虛擬機Win10&11 乃至透過串流至VR設備都可以完美的運行此作品！
+
+我有透過串流直播進行紀錄我所遊玩這部作品的過程,由於後期未剪輯處理,因此在這裡就不便放出.
 
 ### 結尾
 
-一切是那麼的愉悅,也希望這份美好可以傳達給每一個遊玩品味過故事的人
+一切是那麼的愉悅,也希望這份美好可以傳達給每一個遊玩,品味過故事的人.
 
 Music:
 
 ```
-​
+​<iframe width="1292" height="727" src="https://www.youtube.com/embed/qWFDLyo5M50" title="箱入り娘 / 音街ウナ【猫田紺】" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ```
 
-\
-<br>
+{% embed url="https://www.youtube.com/embed/qWFDLyo5M50" %}
