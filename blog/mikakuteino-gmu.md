@@ -100,6 +100,12 @@ YouTube [link](https://youtu.be/qWFDLyo5M50)
 
 ### 結尾
 
+<figure><img src="../.gitbook/assets/スクリーンショット 2026-08-09 5.30.27.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/スクリーンショット 2026-08-09 5.51.08.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/スクリーンショット 2026-08-09 5.57.17.png" alt=""><figcaption></figcaption></figure>
+
 一切是那麼的愉悅,也希望這份美好可以傳達給每一個遊玩,品味過故事的人.
 
 Music:
