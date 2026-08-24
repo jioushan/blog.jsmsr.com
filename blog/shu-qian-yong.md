@@ -1,4 +1,4 @@
-# 書籤用
+# お気に入り
 
 [https://tld-list.com](https://tld-list.com)  此網站幫助您比對部分Domain的價格 在新註和續費直接找的一個合適的價格.
 
@@ -14,3 +14,48 @@ On the Bilibiliに[Rust 勉強課程](https://www.bilibili.com/video/BV1ePS4YfE3
 
 毎週間に必要読サイト　[https://ruanyifeng.com/blog/](https://ruanyifeng.com/blog/)
 
+```
+journalctl --vacuum-size=10M
+```
+
+```
+du -ahx / | sort -rh | head -n 20
+```
+
+!!!
+
+```
+apt purge $(dpkg -l | awk '/linu[x]-image-[0-9]/ {if ($3 != "'$(uname -r | sed "s/-.*//")'") print $2}')
+```
+
+```
+# 1. 更新套件清單並重新安裝核心
+apt update && apt install -y linux-image-amd64
+​
+# 2. 更新 GRUB 引導选單
+update-grub
+```
+
+```
+sed -i 's/#SystemMaxUse=/SystemMaxUse=10M/' /etc/systemd/journald.conf
+systemctl restart systemd-journald
+```
+
+```
+apt clean && apt autoremove --purge -y
+journalctl --vacuum-size=10M
+```
+
+```
+# 1. 設定 IP 與子網遮罩，並啟用網卡
+sudo ifconfig eth0 192.168.10.100 netmask 255.255.255.0 up
+​
+# 2. 設定預設網關
+sudo route add default gw 192.168.10.1 eth0
+​
+# 3. 設定 DNS 解析
+echo "nameserver 8.8.8.8" | sudo tee /etc/resolv.conf
+```
+
+\
+<br>
