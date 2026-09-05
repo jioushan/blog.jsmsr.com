@@ -1,8 +1,27 @@
+---
+description: Linux ARM64 Add Widevine（DRM） for Firefox/Chromium
+---
+
 # On Asahi Linux Debian13 used Widevine
 
 俗話說，一臺工作PC若是連播放音樂和視頻都無法做到，未免也太可憐些！
 
 這裡只是一個思路解決在16k aarh64 M1 Soc的Debian上面解決DRM播放問題，
+
+```
+⚠️截止到更新, 在透過Asahilinux repo的修補方案的Path更改,目前已經完美解決ARM64版本的Debian or Ubuntu
+修補DRM
+```
+
+請訪問:此[repo](https://github.com/jioushan/widevine-install)
+
+如何食用：
+
+正常clone 此git,在已經安裝Firefox-ESR or Chromium 瀏覽器狀態下,正常執行[widevine\_fixup.py](https://github.com/jioushan/widevine-install/blob/main/widevine_fixup.py) 即可運作腳本成功講支持DRM修補補丁寫入您的fiefox or Chromium
+
+ーーーーーーーーー
+
+以下为 使用docker/podman 容器化fedora - chromium+字体 解决方案<br>
 
 直到目前我沒有很好的解決方案，大抵是Debian下面的chromium在打包的時候，無論你如何使用官方的repo [https://github.com/AsahiLinux/widevine-installer/issues](https://github.com/AsahiLinux/widevine-installer/issues)
 
