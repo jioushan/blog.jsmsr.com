@@ -48,9 +48,7 @@ Still Alive.
 
 **一个菜鸡不怎么更新的小站**
 
-## [**夜空**](https://blog.moeqing.com)
 
-**A Salted fish.**
 
 ## [Shucheng Li](https://snli.org/)
 
@@ -64,7 +62,7 @@ Still Alive.
 
 童话只美在真实却从不续写
 
-## [MAO486](https://blog.xn--5ivs9a.work/)  &#x20;
+## [MAO486](https://mao486.site)  &#x20;
 
 #### 一个宅的“家”
 
